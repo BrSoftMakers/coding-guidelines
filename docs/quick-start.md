@@ -1,54 +1,5 @@
 # Quick Start
 
-## Installation
-
-1. [Create a docsify site](//docsify.js.org/#/quickstart) by following the instructions on the [docsify.js](//docsify.js.org) website.
-
-1. Select a theme from the [Themes](themes) section and replace the `<link>` in your `index.html`.
-
-   ```html
-   <!-- Theme: Simple (latest v0.x.x) -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-   ```
-
-1. Add the docsify-themeable plugin to your `index.html` after docsify:
-
-   ```html
-   <!-- docsify-themeable (latest v0.x.x) -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-   ```
-
-1. Review the [Options](options) section and configure as needed. For example:
-
-   ```html
-   <script>
-     window.$docsify = {
-         // ...
-         themeable: {
-             readyTransition : true, // default
-             responsiveTables: true  // default
-         }
-     }
-   </script>
-   ```
-
-1. Review the [Customization](customization) section and set theme properties as needed. For example:
-
-   ```html
-   <style>
-     :root {
-       /* Reduce the font size */
-       --base-font-size: 14px;
-
-       /* Change the theme color hue */
-       --theme-hue: 325;
-
-       /* Change the sidebar bullets */
-       --sidebar-nav-link-before-content: '😀';
-     }
-   </style>
-   ```
-
 ## Local Preview
 
 Previewing your site locally requires serving your files from a web server.
