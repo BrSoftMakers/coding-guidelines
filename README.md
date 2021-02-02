@@ -1,10 +1,13 @@
-![Logotipo com o título da softmakers](https://camo.githubusercontent.com/ba40b51b26b675946cc60288f1253d77e467682ce43543c070d230764eebcace/68747470733a2f2f7777772e736f66746d616b6572732e636f6d2e62722f6173736574732f696d672f6c6f676f7469706f31347878686470692e706e67)
-
 [![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
 [![Codacy grade](https://img.shields.io/codacy/grade/860d40719cbd4e0f91e145b87ec7c29a.svg?style=flat-square)](https://www.codacy.com/app/jhildenbiddle/docsify-themeable?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jhildenbiddle/docsify-themeable&amp;utm_campaign=Badge_Grade)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/docsify-themeable/badge)](https://www.jsdelivr.com/package/npm/docsify-themeable)
 
+----
+
+![Logotipo com o título da softmakers](https://camo.githubusercontent.com/ba40b51b26b675946cc60288f1253d77e467682ce43543c070d230764eebcace/68747470733a2f2f7777772e736f66746d616b6572732e636f6d2e62722f6173736574732f696d672f6c6f676f7469706f31347878686470692e706e67)
+
+---
 ## Sobre o projeto
 
 A ideia geral e buscar definir padrões para as equipes. Seja padrões de estilos de código, arquitetura de determinado framework, ou soluções para problemas comuns nas línguagens e/ou frameworks.
