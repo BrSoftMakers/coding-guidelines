@@ -1,4 +1,4 @@
-# Coding Guidelines - Softmakers
+![Logotipo com o título da softmakers](https://camo.githubusercontent.com/ba40b51b26b675946cc60288f1253d77e467682ce43543c070d230764eebcace/68747470733a2f2f7777772e736f66746d616b6572732e636f6d2e62722f6173736574732f696d672f6c6f676f7469706f31347878686470692e706e67)
 
 [![NPM](https://img.shields.io/npm/v/docsify-themeable.svg?style=flat-square)](https://www.npmjs.com/package/docsify-themeable)
 [![Codacy grade](https://img.shields.io/codacy/grade/860d40719cbd4e0f91e145b87ec7c29a.svg?style=flat-square)](https://www.codacy.com/app/jhildenbiddle/docsify-themeable?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jhildenbiddle/docsify-themeable&amp;utm_campaign=Badge_Grade)
