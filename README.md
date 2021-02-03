@@ -52,7 +52,7 @@ Deve ser criado uma nova branch a partir da develop. E depois adicinar a feature
 Dentro da pasta `docs`, estão todos os guides criados atualmente. Com cada pasta com seu devido título.
 Deve ser criada a pasta - ou se já existir, ignorar este passo -, depois criar o arquivo markdown dentro do mesmo.
 
-Exemplo: `docs/NODEJS/introduction.md`
+Exemplo: `docs/NODEJS/index.md`
 
 Após criado o arquivo, deve ser adicionado no header lateral do projeto, que fica no arquivo:
 

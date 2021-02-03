@@ -1,5 +1,7 @@
 # GIT
 
+> Guia de fluxos do GIT.
+
 ## Como usar git flow?
 
 ![Git flow](https://i2.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png)
@@ -31,13 +33,13 @@ A hotfix branch são para resolver erros ocorridos em produção, ela é criada 
 
 O fluxo geral do Gitflow é:
 
-- develop branch é criada a partir do master
-- release branch é criada a partir de develop
-- feature branches são criadas a partir da develop
-- Quando uma release é concluída, ela é mesclado com a develop branch
-- Quando a release é concluída, ele é mesclado com o develop e a master
-- Se um problema na master for detectado, um branch de hotfix é criado a partir da master
-- Assim que o hotfix for concluído, ele é mesclada para develop e master
+- branch develop é criada a partir do main
+- branch release é criada a partir de develop
+- branches feature são criadas a partir da develop
+- Quando uma release é concluída, ela é mesclada com a develop
+- Quando a release é concluída, ela é mesclada com a develop e a main
+- Se um problema na main for detectado, uma branch chamada hotfix é criada a partir da main
+- Assim que a hotfix for concluída, ela é mesclada com a develop e a main
 
 ### Links
 

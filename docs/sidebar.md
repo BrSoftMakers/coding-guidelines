@@ -1,7 +1,8 @@
 - [Introdução](introduction)
-- [GIT](git/introduction)
-- [PHP](PHP/introduction)
-- [Quick Start](quick-start)
+- [GIT](GIT/index)
+- [PHP](PHP/index)
+- [CSS](CSS/index)
+- [Como rodar o projeto?](quick-start)
 - **Como escrever markdown?**
 - [Markdown](markdown)
 - **Temas**
