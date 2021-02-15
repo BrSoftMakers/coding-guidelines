@@ -2,6 +2,7 @@
 - [GIT](GIT/index)
 - [PHP](PHP/index)
 - [CSS](CSS/index)
+- [Formulários](Forms/index)
 - [Como rodar o projeto?](quick-start)
 - **Como escrever markdown?**
 - [Markdown](markdown)
